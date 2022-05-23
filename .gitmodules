@@ -1,0 +1,3 @@
+[submodule "python-pytest-selenium"]
+	path = python-pytest-selenium
+	url = https://github.com/bredah/python-pytest-selenium
